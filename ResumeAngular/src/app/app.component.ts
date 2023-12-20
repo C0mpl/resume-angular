@@ -14,5 +14,5 @@ export class AppComponent {
   socialLinks = {
     linkedin: 'https://www.linkedin.com/in/ilias-mirzoiev-3a516a280/',
     github: 'https://github.com/C0mpl?tab=repositories'
-};
+  };
 }
